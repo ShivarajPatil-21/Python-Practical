@@ -6,4 +6,4 @@ CE-259 PIP
 
 ->Practical-2
     
-   Github Repo :-  
+   Github Repo :-  https://github.com/iZERWAS/Python-Practical/tree/main/20cs062_Python%20practicals/20cs062_py_practical%202
